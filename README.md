@@ -1,2 +1,2 @@
 # Idchamp
-learn machine learning
+machine learning
